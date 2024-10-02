@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ebableth.github.io/sitemap.html.gz
+Sitemap: https://ebableth.github.io/app/sitemap.html.gz
+Sitemap: https://ebableth.github.io/assets/sitemap.html.gz
+Sitemap: https://ebableth.github.io/css/sitemap.html.gz
+Sitemap: https://ebableth.github.io/data/sitemap.html.gz
+Sitemap: https://ebableth.github.io/includes/sitemap.html.gz
+Sitemap: https://ebableth.github.io/item/sitemap.html.gz
+Sitemap: https://ebableth.github.io/src/sitemap.html.gz
